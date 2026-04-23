@@ -14,6 +14,7 @@ This repository contains the practical exam of the **Data Scientist Professional
 
 * **notebook**: Contains the Jupyter Notebook file with the full analysis, from data cleaning, EDA to model evaluation.
 * **recipe\_site\_traffic\_2212**: The dataset provided by DataCamp for the exam.
+* **Data Scientist Certification - Practical Exam (Recipe Site Traffic)**: Contains the instructions, data information and requirements of the Practical Exam.
 
 
 
